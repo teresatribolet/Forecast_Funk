@@ -1,8 +1,11 @@
 source 'https://rubygems.org'
-
+gem 'omniauth'
+gem 'rspotify'
 gem 'wunderground'
 gem 'httparty'
 gem 'figaro'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
 # Use sqlite3 as the database for Active Record

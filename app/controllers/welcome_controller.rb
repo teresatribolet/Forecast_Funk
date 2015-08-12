@@ -5,7 +5,6 @@ class WelcomeController < ApplicationController
     
    @states.sort!
 
-
     	if params[:city] != nil
        	params[:city].gsub! " ", "_"
     	end
