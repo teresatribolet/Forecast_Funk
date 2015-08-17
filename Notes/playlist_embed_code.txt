@@ -1,8 +1,31 @@
-Indie Pop!
-<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A2ikvjqFDwalfKdCHkxn79O" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-
+TEMPERATURE 5 AND UNDER
 Deathcore
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A1aFz02MTZPGjgTovXGm2xw" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Metal Domination 
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A3vyS89PZHAELXfKFT99aBK" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Metalcore
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify_france%3Aplaylist%3A5vUFrhjhYHJM1oAO50yLJS" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Nu Metal
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A7tIim3qlaUUT1vXe43VlAA" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Kick-Ass Metal
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A2k2AuaynH7E2v8mwvhpeAO" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Metal's Most Streamed
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A1LJXEmcLGYTz7mmPgnGR6C" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Extreme Metal Workout
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A2ARkmcAqkG2ZM8A9zjqZge" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+New Metal Tracks
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A4UIvC4UYUecnpWkHCMRlri" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+
+
+TEMPERATURE 6-20
 
 Deep Dark Indie Folk
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A7BuKs6kgNMx2fwF01WphOD" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
@@ -13,9 +36,116 @@ Melancholia
 Acoustic Covers
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A0UHbhCjKlXnFfv98bKrtKv" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
+Quiet Weekend
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A0KXa4eJWSbnrqzQCUTrwvf" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Ultimate Chilled Collection
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aassiagrazioli%3Aplaylist%3A3mQeNai1njrt0hWbzTJ0NL" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Rainy Day
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A7CQunpJEHecknIyABfS8pP" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Down In The Dumps
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A6ejgjp55cJWGzcDOp4HpGC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+
+
+
+TEMPERATURE 21-40
+
+Relaxing Indie Acoustic
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A2rkfKrh8R3muuHrkENu30P" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Bittersweet Love
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A46SRcW3QtabGCMfvYlkWTh" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Acoustic Commute
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A3OUguxmuL5x24sMAw4qPku" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Under the Stars
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A0SFb93FxHVgxzShHblRIKc" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Under the Covers
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A7MIbPS2XjmpJVt6Y1vfuTI" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Breakfast in Bed
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A7fqGRp4JhXlwkHa3PGOi9n" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Accoustic Chill
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A7dtrRz9qmcsiNNJqLyWtgt" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+
+TEMPERATURE 41-60
+Infinite Indie Folk
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A5mRQ1OKwXfOuTCXftFu62R" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Indie Acoustic Chill
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A679dZxoZT7TketHECEkHUn" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Calm Down
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A5tnBjatmVR3VtfVMOpS87h" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+The Nu-Modern
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A6ORPPIGa0FjkwfJVTYkfKu" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Dark and Stormy
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A7MPXsjQGsXcLdNz7UxVuVl" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Forever Alone
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A2U3mZqDktE7UJ1gE4eVoUv" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Anthems of Angst
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A4dgsG6S4O8ZaTFk1gQWCk0" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+TEMPERATURE 61-80
+Indie Pop!
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A2ikvjqFDwalfKdCHkxn79O" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
 Feel Good
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Asonymusicnl%3Aplaylist%3A11dmFZe33fvcHr0Xn5E9HS" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
+Essential Indie
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A4YFNBPOZhmRmDecGBMuVla" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Sleepy Morning Coffee
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A4je0j7rKHGrwbdQQyNngsT" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Chill Rock
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A6nIJS5m3ZyG9nNghjQNAug" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Totally Alternative
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A6PObHFkv7TAGAv5dfxKMl0" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Indie Rock Focus
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A5mP9P2dji2bxcL9OAEsWY7" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+TEMPERATURE 81-90
+Rock Solid Hits
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A5dxXJeUXHe57Jw8EZHjGQq" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Punk Essentials
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify_france%3Aplaylist%3A0jR0hPAPkEJLg3OGFZ3kyE" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+
+90's Hip Hop
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Awarnermusicus%3Aplaylist%3A7HQu1GUDVSx64GdCpaB88I" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Happy Indie
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A50liRcQzi8fk5a97Ise5ax" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Road Trip
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Amyplay.com%3Aplaylist%3A4LgM6Pjn9lSCs41AsHHMY5" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Morning Drive
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A3D9mYbA0nsQfvpvODPD1GA" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+Indie Chill Covers
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A3iIkTxGdNYBItyi5jxnN7N" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+TEMPERATURES 91 AND ABOVE (else)
+
 Teen Pop!
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A445ES7sgFV8zJHebmbUW0L" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+
 
