@@ -1,33 +1,44 @@
-<%= render 'form' %>
-
-<% if @location != nil %>
-
-<div class = "row">
-    <div class = "col-md-6 col-md-offset-3">
-        <div class = "well">
-            <h1>Welcome To <%= @location %>!</h1>
-            <div class = "row">
-                <div class = "col-md-7">
-                    <p><em>What's the weather like?</em></p>
-                    <p>
-                        Temperature is: <%= @temp_f %>° F / <%= @temp_c %>° C 
-                    </p>
-                    <p>
-                        Feels like: <%= @real_feel %>° F
-                    </p>
-                </div>    
-                <div class = "col-md-5">
-                    <p>
-                       <%= @weather_words%> <%= image_tag @weather_icon%> 
-                    </p>
-                    <p>
-                        <%=link_to "Full Forecast", @forecast_link, target: "_blank" %>
-                    </p>
-                </div>
+<div class="container">
+ <div class = "row">
+    <div class = "col-md-8">
+        <div class = "row">
+            <div class = "col-md-12">
+                <%= render 'form' %>
+            </div>
+            <div class = "col-md-12">
+                <% if @location != nil %>
+                    <div class = "well">
+                        <h1>Welcome To <%= @location %>!</h1>
+                        <div class = "row">
+                            <div class = "col-md-7">
+                                <p><em>What's the weather like?</em></p>
+                                <p>
+                                    Temperature is: <%= @temp_f %>° F / <%= @temp_c %>° C 
+                                </p>
+                                <p>
+                                    Feels like: <%= @real_feel %>° F
+                                </p>
+                            </div>
+                            <div class = "col-md-5">
+                                <p>
+                                   <%= @weather_words%> <%= image_tag @weather_icon%> 
+                                </p>
+                                <p>
+                                    <%=link_to "Full Forecast", @forecast_link, target: "_blank" %>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                <% end %>
             </div>
         </div>
-    </div>    
-</div>
+    </div>
+    <div class ="col-md-3">
+        <% if @location != nil %>
+        <iframe class="iframe_margin" src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A<%= playlist(@temp_f, @weather_words) %>" width="320" height="600" frameborder="0" allowtransparency="true"></iframe>
+    <% end %>
+    </div>
+      
+    </div>
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A<%= playlist(@temp_f, @weather_words) %>" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-<% end %>
+</div>

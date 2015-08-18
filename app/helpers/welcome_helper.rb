@@ -327,82 +327,82 @@ module WelcomeHelper
         elsif temp_f >=61 && temp_f <= 80
             selected_playlist = "2ikvjqFDwalfKdCHkxn79O" #Indie Pop!
 
-            if weather_words == "Rain"
-                selected_playlist = "4je0j7rKHGrwbdQQyNngsT" #Sleepy Morning Coffee
-            elsif weather_words == "Rain Mist"
-                selected_playlist = "4je0j7rKHGrwbdQQyNngsT" #Sleepy Morning Coffee 
-            elsif weather_words == "Rain Showers"
-                selected_playlist = "4je0j7rKHGrwbdQQyNngsT" #Sleepy Morning Coffee
-            elsif weather_words == "Thunderstorms and Rain"
-                selected_playlist = "4je0j7rKHGrwbdQQyNngsT" #Sleepy Morning Coffee
-            elsif weather_words == "Thunderstorm"
-                selected_playlist = "4je0j7rKHGrwbdQQyNngsT" #Sleepy Morning Coffee 
-            elsif weather_words == "Drizzle"
-                selected_playlist = "4je0j7rKHGrwbdQQyNngsT" #Sleepy Morning Coffee 
+            # if weather_words == "Rain"
+            #     selected_playlist = "4je0j7rKHGrwbdQQyNngsT" #Sleepy Morning Coffee
+            # elsif weather_words == "Rain Mist"
+            #     selected_playlist = "4je0j7rKHGrwbdQQyNngsT" #Sleepy Morning Coffee 
+            # elsif weather_words == "Rain Showers"
+            #     selected_playlist = "4je0j7rKHGrwbdQQyNngsT" #Sleepy Morning Coffee
+            # elsif weather_words == "Thunderstorms and Rain"
+            #     selected_playlist = "4je0j7rKHGrwbdQQyNngsT" #Sleepy Morning Coffee
+            # elsif weather_words == "Thunderstorm"
+            #     selected_playlist = "4je0j7rKHGrwbdQQyNngsT" #Sleepy Morning Coffee 
+            # elsif weather_words == "Drizzle"
+            #     selected_playlist = "4je0j7rKHGrwbdQQyNngsT" #Sleepy Morning Coffee 
 
-            elsif weather_words == "Freezing Drizzle"
-                selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock
-            elsif weather_words == "Snow"
-                selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock
-            elsif weather_words == "Snow Grains"
-                selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock
-            elsif weather_words == "Snow Showers"
-                selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock
-            elsif weather_words == "Snow Blowing Snow Mist"
-                selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock  
-            elsif weather_words == "Snow Blowing"
-                selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock 
-            elsif weather_words == "Low Drifting Snow"
-                selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock 
-            elsif weather_words == "Thunderstorms and Snow"
-                selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock
+            # elsif weather_words == "Freezing Drizzle"
+            #     selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock
+            # elsif weather_words == "Snow"
+            #     selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock
+            # elsif weather_words == "Snow Grains"
+            #     selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock
+            # elsif weather_words == "Snow Showers"
+            #     selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock
+            # elsif weather_words == "Snow Blowing Snow Mist"
+            #     selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock  
+            # elsif weather_words == "Snow Blowing"
+            #     selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock 
+            # elsif weather_words == "Low Drifting Snow"
+            #     selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock 
+            # elsif weather_words == "Thunderstorms and Snow"
+            #     selected_playlist = "6nIJS5m3ZyG9nNghjQNAug" #Chill Rock
 
-            elsif weather_words == "Ice"
-                selected_playlist = "6PObHFkv7TAGAv5dfxKMl0" #Totally Alternative
-            elsif weather_words == "Freezing Rain"
-                selected_playlist = "6PObHFkv7TAGAv5dfxKMl0" #Totally Alternative
-            elsif weather_words == "Ice Crystals"
-                selected_playlist = "6PObHFkv7TAGAv5dfxKMl0" #Totally Alternative
-            elsif weather_words == "Ice Pellets"
-                selected_playlist = "6PObHFkv7TAGAv5dfxKMl0" #Totally Alternative
-            elsif weather_words == "Ice Pellet Showers"
-                selected_playlist = "6PObHFkv7TAGAv5dfxKMl0" #Totally Alternative
-             elsif weather_words == "Thunderstorms and Ice Pellets"
-                selected_playlist = "6PObHFkv7TAGAv5dfxKMl0" #Totally Alternative
+            # elsif weather_words == "Ice"
+            #     selected_playlist = "6PObHFkv7TAGAv5dfxKMl0" #Totally Alternative
+            # elsif weather_words == "Freezing Rain"
+            #     selected_playlist = "6PObHFkv7TAGAv5dfxKMl0" #Totally Alternative
+            # elsif weather_words == "Ice Crystals"
+            #     selected_playlist = "6PObHFkv7TAGAv5dfxKMl0" #Totally Alternative
+            # elsif weather_words == "Ice Pellets"
+            #     selected_playlist = "6PObHFkv7TAGAv5dfxKMl0" #Totally Alternative
+            # elsif weather_words == "Ice Pellet Showers"
+            #     selected_playlist = "6PObHFkv7TAGAv5dfxKMl0" #Totally Alternative
+            #  elsif weather_words == "Thunderstorms and Ice Pellets"
+            #     selected_playlist = "6PObHFkv7TAGAv5dfxKMl0" #Totally Alternative
 
-            elsif weather_words == "Hail"
-                selected_playlist = "4YFNBPOZhmRmDecGBMuVla" #Essential Indie
-            elsif weather_words == "Hail Showers"
-                selected_playlist = "4YFNBPOZhmRmDecGBMuVla" #Essential Indie
-            elsif weather_words == "Thunderstorms with Hail"
-                selected_playlist = "4YFNBPOZhmRmDecGBMuVla" #Essential Indie
-            elsif weather_words == "Thunderstorms with Small Hail"
-                selected_playlist = "4YFNBPOZhmRmDecGBMuVla" #Essential Indie
-            elsif weather_words == "Small Hail"
-                selected_playlist = "4YFNBPOZhmRmDecGBMuVla" #Essential Indie
+            # elsif weather_words == "Hail"
+            #     selected_playlist = "4YFNBPOZhmRmDecGBMuVla" #Essential Indie
+            # elsif weather_words == "Hail Showers"
+            #     selected_playlist = "4YFNBPOZhmRmDecGBMuVla" #Essential Indie
+            # elsif weather_words == "Thunderstorms with Hail"
+            #     selected_playlist = "4YFNBPOZhmRmDecGBMuVla" #Essential Indie
+            # elsif weather_words == "Thunderstorms with Small Hail"
+            #     selected_playlist = "4YFNBPOZhmRmDecGBMuVla" #Essential Indie
+            # elsif weather_words == "Small Hail"
+            #     selected_playlist = "4YFNBPOZhmRmDecGBMuVla" #Essential Indie
 
-            elsif weather_words == "Fog"
-                selected_playlist = "5mP9P2dji2bxcL9OAEsWY7" #Indie Rock Focus
-            elsif weather_words == "Fog Patches"
-                selected_playlist = "5mP9P2dji2bxcL9OAEsWY7" #Indie Rock Focus
-            elsif weather_words == "Freezing Fog"
-                selected_playlist = "5mP9P2dji2bxcL9OAEsWY7" #Indie Rock Focus
-            elsif weather_words == "Patches of Fog"
-                selected_playlist = "5mP9P2dji2bxcL9OAEsWY7" #Indie Rock Focus
-            elsif weather_words == "Partial Fog"
-                selected_playlist = "5mP9P2dji2bxcL9OAEsWY7" #Indie Rock Focus
+            # elsif weather_words == "Fog"
+            #     selected_playlist = "5mP9P2dji2bxcL9OAEsWY7" #Indie Rock Focus
+            # elsif weather_words == "Fog Patches"
+            #     selected_playlist = "5mP9P2dji2bxcL9OAEsWY7" #Indie Rock Focus
+            # elsif weather_words == "Freezing Fog"
+            #     selected_playlist = "5mP9P2dji2bxcL9OAEsWY7" #Indie Rock Focus
+            # elsif weather_words == "Patches of Fog"
+            #     selected_playlist = "5mP9P2dji2bxcL9OAEsWY7" #Indie Rock Focus
+            # elsif weather_words == "Partial Fog"
+            #     selected_playlist = "5mP9P2dji2bxcL9OAEsWY7" #Indie Rock Focus
 
-            elsif weather_words == "Overcast"
-                selected_playlist = "11dmFZe33fvcHr0Xn5E9HS" #Feel Good
-            elsif weather_words == "Cloudy"
-                selected_playlist = "11dmFZe33fvcHr0Xn5E9HS" #Feel Good
-            elsif weather_words == "Mostly Cloudy" 
-                selected_playlist = "11dmFZe33fvcHr0Xn5E9HS" #Feel Good
-            elsif weather_words == "Partly Cloudy"
-                selected_playlist = "11dmFZe33fvcHr0Xn5E9HS" #Feel Good
-            elsif weather_words == "Scattered Clouds"
-                selected_playlist = "11dmFZe33fvcHr0Xn5E9HS" #Feel Good
-            end
+            # elsif weather_words == "Overcast"
+            #     selected_playlist = "11dmFZe33fvcHr0Xn5E9HS" #Feel Good
+            # elsif weather_words == "Cloudy"
+            #     selected_playlist = "11dmFZe33fvcHr0Xn5E9HS" #Feel Good
+            # elsif weather_words == "Mostly Cloudy" 
+            #     selected_playlist = "11dmFZe33fvcHr0Xn5E9HS" #Feel Good
+            # elsif weather_words == "Partly Cloudy"
+            #     selected_playlist = "11dmFZe33fvcHr0Xn5E9HS" #Feel Good
+            # elsif weather_words == "Scattered Clouds"
+            #     selected_playlist = "11dmFZe33fvcHr0Xn5E9HS" #Feel Good
+            # end
 
         elsif temp_f >= 81 && temp_f <= 90
             selected_playlist = "445ES7sgFV8zJHebmbUW0L" #Rock Solid Hits
