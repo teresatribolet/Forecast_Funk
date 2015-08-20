@@ -1,6 +1,6 @@
 /*Body and General Changes*/
 body {
-	background-image:url('boombox_background2.jpg');
+	background-image:url('boombox.jpg');
 	background-repeat: no-repeat;
 	width: 100%;
   position: absolute;
@@ -64,7 +64,7 @@ a.navbar-brand:hover, li a:hover {
 
 /*Box Changes*/
 .well {
-  background: rgba(79, 60, 141, .5)
+  background: rgba(79, 60, 141, .5);
 }
 
 .well h1, .well-about h1 {
