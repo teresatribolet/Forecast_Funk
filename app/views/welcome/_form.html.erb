@@ -1,11 +1,12 @@
 <div class = "well location">
-            <h1>Look up your Local Forecast</h1>
-                    <p><em>What's The weather like in your city?</em></p>
-                    <div>
+            <h1>Find Your City</h1>
+                    <p><em>Enter your city and state to get a curated Spotify playlist to match the temperature and conditions.</em></p>
+                    <p><em>After your playlist is populated, you'll be asked to download or open your Spotify App to get access to a killer playlist!</em></p>
+                    <div class="form-group">
                         <%= form_tag  index_path do %>
-                        <%= text_field_tag :city, nil, placeholder: "City Name" %><br>
-                        <%= select_tag :state, options_for_select(@states), :prompt => "Please select" %><br>
-                        <%= submit_tag "Check Weather" %>
+                        <div class="form-padding"><%= text_field_tag :city, nil, placeholder: "City Name", class: "form-control" %><br></div>
+                        <div class="form-padding"><%= select_tag :state, options_for_select(@states), :prompt => "Please select", class: "form-control" %><br></div>
+                        <%= submit_tag "Check Weather", class: "btn btn-success" %>
                         <% end %>
                     </div>
         </div>

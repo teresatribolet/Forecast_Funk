@@ -1,6 +1,6 @@
 <div class="container">
  <div class = "row">
-    <div class = "col-md-8">
+    <div class = "col-md-4">
         <div class = "row">
             <div class = "col-md-12">
                 <%= render 'form' %>
@@ -35,7 +35,7 @@
     </div>
     <div class ="col-md-3">
         <% if @location != nil %>
-        <iframe class="iframe_margin" src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A<%= playlist(@temp_f, @weather_words) %>" width="320" height="600" frameborder="0" allowtransparency="true"></iframe>
+        <iframe class="iframe_margin animated bounceInRight" src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A<%= playlist(@temp_f, @weather_words) %>" width="320" height="600" frameborder="0" allowtransparency="true"></iframe>
     <% end %>
     </div>
       

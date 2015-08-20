@@ -19,6 +19,7 @@ class WelcomeController < ApplicationController
     	@temp_f = response["current_observation"]["temp_f"]
     	@temp_c = response["current_observation"]["temp_c"]
     	@weather_icon = response["current_observation"]["icon_url"]
+      @weather_icon = @weather_icon.sub 'i/c/k', 'i/c/f'
     	@weather_words = response["current_observation"]["weather"]
     	@forecast_link = response["current_observation"]["forecast_url"]
     	@real_feel = response["current_observation"]["feelslike_f"]
